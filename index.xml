@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://0xpantarhei.github.io/blogs/</link>
+    <link>https://blog.pantarhei.space/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 11:00:00 +0800</lastBuildDate>
-    <atom:link href="https://0xpantarhei.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.pantarhei.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://0xpantarhei.github.io/blogs/docs/test/</link>
+      <link>https://blog.pantarhei.space/docs/test/</link>
       <pubDate>Sun, 19 Jan 2025 11:00:00 +0800</pubDate>
-      <guid>https://0xpantarhei.github.io/blogs/docs/test/</guid>
+      <guid>https://blog.pantarhei.space/docs/test/</guid>
       <description>&lt;h2 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h2&gt;
 &lt;p&gt;This is a test page
 retry&lt;/p&gt;</description>

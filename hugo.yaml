@@ -1,0 +1,4 @@
+baseURL: "https://0xpantarhei.github.io/blogs/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
